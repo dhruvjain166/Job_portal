@@ -12,10 +12,12 @@ Eliminates the need for repeated uploads, streamlining the application process.
 3. Automated Email Reminder System
 Sends email notifications to job seekers with incomplete applications, prompting them to complete the process.
 Increases the overall completion rate of job applications and enhances user engagement.
+
 Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Express.js, Node.js
 Database: MongoDB
+
 Utilities:
 Cron Jobs: For scheduling email reminders.
 NodeMailer: For automated email delivery.
