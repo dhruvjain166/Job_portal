@@ -1,7 +1,7 @@
-Job Portal
+**Job Portal**
 This project is a comprehensive job portal designed to connect job seekers with potential employers. It provides distinct functionalities for both user groups, ensuring an efficient and seamless experience. Built using modern web technologies, the portal simplifies the hiring process through automated features and intuitive interfaces.
 
-Features
+**Features**
 1. Dual Sign-In Options
 Two distinct sign-in options:
 Job Seekers: Allows applicants to create profiles, upload documents, and apply for jobs.
@@ -13,11 +13,11 @@ Eliminates the need for repeated uploads, streamlining the application process.
 Sends email notifications to job seekers with incomplete applications, prompting them to complete the process.
 Increases the overall completion rate of job applications and enhances user engagement.
 
-Technologies Used
+**Technologies Used**
 Frontend: HTML, CSS, JavaScript
 Backend: Express.js, Node.js
 Database: MongoDB
 
-Utilities:
+**Utilities:**
 Cron Jobs: For scheduling email reminders.
 NodeMailer: For automated email delivery.
